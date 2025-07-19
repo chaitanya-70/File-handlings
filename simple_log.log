@@ -1,0 +1,5 @@
+[ERROR] FileNotFoundError: 'data.csv' not found
+[ERROR] ValueError: invalid literal for int() with base 10: 'abc'
+[ERROR] ZeroDivisionError: division by zero
+[ERROR] TypeError: unsupported operand type(s) for +: 'int' and 'str'
+[ERROR] KeyError: 'user_id'
